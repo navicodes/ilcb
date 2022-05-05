@@ -1,0 +1,230 @@
+/*
+
+    colors:
+        chocolate : #754c24;
+        orange: #f7931e;
+
+*/
+
+body {
+    /* font-family: 'Crimson Pro', serif; */
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* menu style */
+.top-nav-logo{
+
+    height : 50px;
+    width: auto;
+}
+
+.topnav {
+    color : #754c24;
+}
+#topnav .active {
+    color: #f7931e;
+    text-decoration: none;
+    text-decoration-style: solid;
+}
+
+.top-link {
+    color : #754c24;
+}
+
+/* header styles */
+.top-name {
+
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color : #f7931e;
+}
+
+.nav-item > .dropdown-menu {
+    background-color: #754c24;
+}
+
+.nav-item > .dropdown-menu > a {
+    color: #ffffff;
+    background-color: #754c24;
+}
+
+.nav-item > .dropdown-menu > a:hover {
+    color: #f7931e;
+    background-color: #754c24;
+}
+
+.section-title {
+    color : #754c24;
+}
+
+.section-title-serv{
+    /* background-color: #f7931e; */
+    opacity : 100%;
+    /*  border-bottom : 3px solid #754c24; */
+}
+
+.section-title-obj{
+    /* background-color: #754c24; */
+    opacity : 100%;
+    /*border-bottom : 3px solid #ffffff;*/
+    color : #ffffff;
+}
+/* ilcb objectives */
+.ilcb-objectives {
+    /* background-color: #f7931e; */
+    background-color: #eeeeee;
+    color : #754c24;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+
+.obj {
+    color:#f7931e;
+    font-size: 1.5rem;
+}
+
+
+/*  services styles  */
+.serv {
+	color:#f7931e;
+	/* font-family: 'Playfair Display', serif !important; */
+    font-size: 1.5rem;
+    
+}
+
+/* .service-main-title-btm {
+    background-color: #f7931e;
+    height : 2px;
+    width: 15%;
+    justify-content: center;
+} */
+.serv-title {
+	font-family: 'Playfair Display', serif !important;
+	font-weight: 600;
+    font-size: 1.5rem;
+	color : #754c24;
+}
+.serv-icon {
+	font-size: 2rem;
+	color :  #f7931e;
+}
+
+.gagas {
+    font-weight: 500;
+    color: #f7931e;
+}
+
+.serv-link > a{
+    color : #f7931e;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.serv-link > a:hover{
+    color : #754c24;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.service-details-title {
+    color: #754c24;
+}
+
+.service-details > li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* footer styles */
+.ft {
+    background-color: #f7931e;
+    color : #754c24;
+    font-weight: 600;
+}
+
+.ft-top {
+    background-color: #754c24;
+}
+
+.ft-lower {
+    /* background-image: url('/res/img/media/800px-WorldMap-black.png');
+    background-repeat: none;
+    background-blend-mode: multiply; */
+}
+.ft-logo {
+    height :50px;
+}
+
+.ft-title {
+    color: white;
+}
+
+.ft-link {
+    color : #754c24;
+    text-decoration: none;
+}
+
+.ft-link:hover {
+    color : #ffffff;
+    text-decoration: underline;
+}
+
+.ft-social {
+    color : white;
+}
+
+.ft-social:hover {
+    opacity: 50%;
+}
+
+.ft-icon {
+    color : #ffffff;
+}
+
+.ft-copy {
+    color : white;
+}
+
+.dev-link {
+    color : #ffffff;
+}
+
+.dev-link:hover {
+    opacity : 50%;
+    color : #754c24;
+    font-weight: 900;
+}
+
+.btn-orange {
+    background-color: #f7931e;
+    color: #754c24;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+
+/* about page css */
+
+.abt-partner-icon {
+    color :#f7931e;
+    font-size: 4rem;
+}
+
+.abt-partner-icon:hover {
+    color:#754c24;
+}
+
+.abt-partner-name {
+    color: #f7931e;
+}
+
+.abt-partner-name:hover {
+    color:#754c24;
+}
+.abt-section-title {
+    color : #f7931e;
+}
